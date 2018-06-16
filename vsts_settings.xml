@@ -1,13 +1,43 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="11947539-e2ff-49aa-93d0-21748823e775" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://UnstoppableMango.visualstudio.com" />
+          <option name="serverUri" value="https://UnstoppableMango.visualstudio.com" />
+          <option name="userId" value="11947539-e2ff-49aa-93d0-21748823e775" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e9873944-63b4-4c55-9031-a020997fa023&quot;,&quot;name&quot;:&quot;UnstoppableMango&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/projectCollections/e9873944-63b4-4c55-9031-a020997fa023&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;,&quot;name&quot;:&quot;Safir&quot;,&quot;revision&quot;:63,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/projects/64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://unstoppablemango.visualstudio.com/Safir/_git/SafirV2" />
+          <option name="serverUri" value="https://unstoppablemango.visualstudio.com" />
+          <option name="userId" value="11947539-e2ff-49aa-93d0-21748823e775" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e9873944-63b4-4c55-9031-a020997fa023&quot;,&quot;name&quot;:&quot;UnstoppableMango&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/projectCollections/e9873944-63b4-4c55-9031-a020997fa023&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;,&quot;name&quot;:&quot;Safir&quot;,&quot;revision&quot;:75,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/projects/64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;7cd465b7-8fc1-472d-9bed-cc0071673bc6&quot;,&quot;name&quot;:&quot;SafirV2&quot;,&quot;remoteUrl&quot;:&quot;https://unstoppablemango.visualstudio.com/Safir/_git/SafirV2&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/git/repositories/7cd465b7-8fc1-472d-9bed-cc0071673bc6&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;,&quot;name&quot;:&quot;Safir&quot;,&quot;revision&quot;:75,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://unstoppablemango.visualstudio.com/_apis/projects/64390f7c-5ffd-49b3-a736-a4d1a13096b5&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="tfHome" />
           <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//unstoppablemango.visualstudio.com/safir/_git/safirv2" />
         </PropertyState>
       </array>
     </option>
